@@ -1,0 +1,59 @@
+.colBorder{
+    border: 3px solid black;
+    
+    
+}
+.colBorder2{
+    border: 2px solid black;
+    border-top: none;
+    
+    
+}
+p{
+    text-align: center;
+    padding-top: 10px;
+    font-family: Reem Kufi Fun;
+    font-size: 20px;
+    
+}
+body{
+    background-color: #D3D3D3;
+}
+.middleBorder{
+    border-left: 0px solid black;
+    border-right: 0px solid black;
+}
+.middleCol{
+    border-left: 0px solid black;
+    border-right: 0px solid black;
+} 
+h1{
+    font-family: Reem Kufi Fun;
+    margin-top: 20px;
+}
+h2{
+    font-family: Reem Kufi Fun;
+    margin-bottom: 20px;
+}
+.btnDiv{
+    padding: 10px 6px 6px 10px;
+}
+.btn1{ 
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+.btn-primary {
+    font-size: 18px;
+    font-family: Reem Kufi Fun;
+    color: #fff;
+    background-color: black;
+    border-color: black; /*set the color you want here*/
+}
+
+#fixed:hover {
+    color: black;
+    background-color: white;
+    border-color: black /*set the color you want here*/
+}
+   
